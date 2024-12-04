@@ -33,12 +33,6 @@ Este projeto é uma API de e-commerce genérica construída com Node.js e Expres
 - **Produtos**: `/api/products`
 - **Pedidos**: `/api/orders`
 
-## Melhorias Futuras
-
-- Implementar testes automatizados.
-- Adicionar documentação detalhada da API usando Swagger.
-- Melhorar a segurança e validação de dados.
-
 ## Licença
 
 Este projeto é licenciado sob a Licença ISC.
