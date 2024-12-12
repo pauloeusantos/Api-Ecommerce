@@ -1,6 +1,6 @@
-# API de E-commerce Genérica
+# API de E-commerce 
 
-Este projeto é uma API de e-commerce genérica construída com Node.js e Express, utilizando Sequelize para ORM. Ele foi desenvolvido como um trabalho escolar e é projetado para ser flexível, permitindo a adaptação a diferentes tipos de produtos e categorias.
+Este projeto é uma API de e-commerce  construída com Node.js e Express, utilizando Sequelize para ORM. Ele foi desenvolvido como um trabalho escolar e é projetado para ser flexível, permitindo a adaptação a diferentes tipos de produtos e categorias.
 
 ## Estrutura do Projeto
 
@@ -32,12 +32,6 @@ Este projeto é uma API de e-commerce genérica construída com Node.js e Expres
 - **Autenticação**: `/api/auth`
 - **Produtos**: `/api/products`
 - **Pedidos**: `/api/orders`
-
-## Melhorias Futuras
-
-- Implementar testes automatizados.
-- Adicionar documentação detalhada da API usando Swagger.
-- Melhorar a segurança e validação de dados.
 
 ## Licença
 
